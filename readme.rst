@@ -2,6 +2,10 @@
 Fall2015 lab 04
 ###############
 
+Members:
+Cam Bethell
+Jayson Jagodics
+
 This project is the starter for COMP4711 Lab 4, for the Fall 2015 session.
 
 This webapp is broken. On purpose :) 
