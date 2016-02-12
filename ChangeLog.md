@@ -1,5 +1,7 @@
 Newest at the top
 
+Feb 11, 2016, 16:12:69 Handled order display
+
 Feb 11, 2016, 15:46:11 New Orders partially fixed
 
 Feb 11, 2016, 15:40:54 Homepage and autoload fix
