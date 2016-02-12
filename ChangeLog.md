@@ -1,5 +1,7 @@
 Newest at the top
 
+Feb 11, 2016, 16:49:-1 proceed proceeds as expected 
+
 Feb 11, 2016, 16:25:41 Items can be added to an order
 
 Feb 11, 2016, 16:12:69 Handled order display
